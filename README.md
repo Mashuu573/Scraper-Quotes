@@ -4,8 +4,8 @@ Proyecto de aprendizaje enfocado en los fundamentos de Go y Web Scraping. El scr
 Este es mi primer proyecto en ***Go***, lo diseñe para aprender las bases del Web Scraping  y para aprender a utilizar el lenguaje de ***Go***
 
 Utilice las siguientes tecnologias y utilidades para armar mi proyecto:
-**Go** 
-**Colly**
+**Go**, 
+**Colly**,
 **Json**
 
 El Programa tiene las siguientes caracteristicas:
